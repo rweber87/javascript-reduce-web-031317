@@ -10,6 +10,7 @@ In this lesson, we'll look at how to reduce a list to a single value.
 2. Write a function that accepts a function as one of its arguments
 3. Build small pieces of code that can be used later
 
+
 ## Introduction
 In the world of programming, we often work with lists. Sometimes we want to transform elements in that list to another value — but other times, we want to **aggregate** a result. In other words, we want to _reduce_ a list to a single value — it could be, for example, a string, a number, a boolean.
 
